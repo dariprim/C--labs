@@ -1,0 +1,14 @@
+C:\Users\Ilya\Desktop\Labs\C#\Lab1\Lab1\bin\Debug\net9.0\Lab1.exe
+C:\Users\Ilya\Desktop\Labs\C#\Lab1\Lab1\bin\Debug\net9.0\Lab1.deps.json
+C:\Users\Ilya\Desktop\Labs\C#\Lab1\Lab1\bin\Debug\net9.0\Lab1.runtimeconfig.json
+C:\Users\Ilya\Desktop\Labs\C#\Lab1\Lab1\bin\Debug\net9.0\Lab1.dll
+C:\Users\Ilya\Desktop\Labs\C#\Lab1\Lab1\bin\Debug\net9.0\Lab1.pdb
+C:\Users\Ilya\Desktop\Labs\C#\Lab1\Lab1\obj\Debug\net9.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\Desktop\Labs\C#\Lab1\Lab1\obj\Debug\net9.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Ilya\Desktop\Labs\C#\Lab1\Lab1\obj\Debug\net9.0\Lab1.AssemblyInfo.cs
+C:\Users\Ilya\Desktop\Labs\C#\Lab1\Lab1\obj\Debug\net9.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Desktop\Labs\C#\Lab1\Lab1\obj\Debug\net9.0\Lab1.dll
+C:\Users\Ilya\Desktop\Labs\C#\Lab1\Lab1\obj\Debug\net9.0\refint\Lab1.dll
+C:\Users\Ilya\Desktop\Labs\C#\Lab1\Lab1\obj\Debug\net9.0\Lab1.pdb
+C:\Users\Ilya\Desktop\Labs\C#\Lab1\Lab1\obj\Debug\net9.0\Lab1.genruntimeconfig.cache
+C:\Users\Ilya\Desktop\Labs\C#\Lab1\Lab1\obj\Debug\net9.0\ref\Lab1.dll

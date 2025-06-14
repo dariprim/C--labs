@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u0440\u044C\u044F\\source\\repos\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42FE3BDD-E1B9-4C04-A640-57CA77A2644B}|Lab2\\Lab2.csproj|c:\\users\\\u0434\u0430\u0440\u044C\u044F\\source\\repos\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FE3BDD-E1B9-4C04-A640-57CA77A2644B}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FE3BDD-E1B9-4C04-A640-57CA77A2644B}|Lab2\\Lab2.csproj|c:\\users\\\u0434\u0430\u0440\u044C\u044F\\source\\repos\\lab2\\lab2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FE3BDD-E1B9-4C04-A640-57CA77A2644B}|Lab2\\Lab2.csproj|solutionrelative:lab2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FE3BDD-E1B9-4C04-A640-57CA77A2644B}|Lab2\\Lab2.csproj|c:\\users\\\u0434\u0430\u0440\u044C\u044F\\source\\repos\\lab2\\lab2\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FE3BDD-E1B9-4C04-A640-57CA77A2644B}|Lab2\\Lab2.csproj|solutionrelative:lab2\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FE3BDD-E1B9-4C04-A640-57CA77A2644B}|Lab2\\Lab2.csproj|c:\\users\\\u0434\u0430\u0440\u044C\u044F\\source\\repos\\lab2\\lab2\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FE3BDD-E1B9-4C04-A640-57CA77A2644B}|Lab2\\Lab2.csproj|solutionrelative:lab2\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FE3BDD-E1B9-4C04-A640-57CA77A2644B}|Lab2\\Lab2.csproj|c:\\users\\\u0434\u0430\u0440\u044C\u044F\\source\\repos\\lab2\\lab2\\frequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FE3BDD-E1B9-4C04-A640-57CA77A2644B}|Lab2\\Lab2.csproj|solutionrelative:lab2\\frequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u044C\u044F\\source\\repos\\Lab2\\Lab2\\Person.cs",
+              "RelativeDocumentMoniker": "Lab2\\Person.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u044C\u044F\\source\\repos\\Lab2\\Lab2\\Person.cs",
+              "RelativeToolTip": "Lab2\\Person.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:13:35.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u044C\u044F\\source\\repos\\Lab2\\Lab2\\Magazine.cs",
+              "RelativeDocumentMoniker": "Lab2\\Magazine.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u044C\u044F\\source\\repos\\Lab2\\Lab2\\Magazine.cs",
+              "RelativeToolTip": "Lab2\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:13:01.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u044C\u044F\\source\\repos\\Lab2\\Lab2\\Article.cs",
+              "RelativeDocumentMoniker": "Lab2\\Article.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u044C\u044F\\source\\repos\\Lab2\\Lab2\\Article.cs",
+              "RelativeToolTip": "Lab2\\Article.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:12:36.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frequency.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u044C\u044F\\source\\repos\\Lab2\\Lab2\\Frequency.cs",
+              "RelativeDocumentMoniker": "Lab2\\Frequency.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u044C\u044F\\source\\repos\\Lab2\\Lab2\\Frequency.cs",
+              "RelativeToolTip": "Lab2\\Frequency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:12:03.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u044C\u044F\\source\\repos\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u044C\u044F\\source\\repos\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wB0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:54:52.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
